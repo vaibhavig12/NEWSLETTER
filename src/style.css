@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* write your CSS here */
+
+
+body{
+  background-color: #E6E9FB;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;  
+}
+
+.container{
+  background-color: #FFFFFF;
+  margin: auto;
+  width: 300px;
+  height: 40%;
+  padding: 40px;
+  margin: 110px auto;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 10px 10px #F0F2FD;
+}
